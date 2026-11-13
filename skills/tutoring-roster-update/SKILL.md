@@ -1,3 +1,8 @@
+---
+name: tutoring-roster-update
+description: Update the tutoring roster document that contains the contact details, regular schedule, rate, and referral source for each active student.
+---
+
 # Tutoring roster PDF requirements
 
 ## Update workflow

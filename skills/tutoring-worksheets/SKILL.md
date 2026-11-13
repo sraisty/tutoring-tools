@@ -48,13 +48,27 @@ user if they conflict with this week's request.
 
 ## Lay out and save the PDF
 
-Use single-sided pages with no blank separators. Put the student's name,
-session date, and topic in every page header. Number every page. Keep each
+- Use single-sided pages with no blank separators. 
+- Put the student's name,
+session date, and topic in every page header. 
+- Number every page. 
+Keep each
 question, diagram, and work area together on one page. Leave blank, unruled
 space below each problem so the student can choose how to lay out their work.
-Give geometry proofs substantially more space than short calculations. Provide
+- Give geometry proofs substantially more space than short calculations. 
+- Provide
 a suitably scaled x-y grid with room for the student's graph whenever graphing
-is required. Make text, diagrams, and grids readable in black-and-white print.
+is required. 
+- Make text, diagrams, and grids readable in black-and-white print.
+
+- Typeset all math in the PDF in standard mathematical notation, including in the
+practice problems, Answer Key, Topic Instructions, and diagrams. Use stacked
+numerators and denominators with a fraction bar, superscript exponents,
+subscripts where appropriate, and standard symbols such as ×, ÷, ≤, √, pi, 
+greek letters, the integral symbol, and summation symbols.
+- italicize variables in equations, such as 'x', 'y', 'r', 'i', the theta symbol, etc.
+- Do not leave caret powers such as `x^3` or slash fractions such as `1/3` visible
+in the PDF.
 
 Use this section order in each PDF:
 
@@ -81,6 +95,7 @@ matching source.
   each handout.
 - Render and inspect every page. Check print legibility, blank work space,
   grid scale and room, headers, page numbers, page breaks, and section order.
+  Confirm that fractions, exponents, and math symbols render correctly.
 - Confirm the session date and topic match the filename and page headers. Check
   that each topic has a PDF with all three sections and a matching editable
   source that can be used for revisions.
